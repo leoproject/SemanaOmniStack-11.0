@@ -1,10 +1,21 @@
-import React from 'react';
+import React, {useState} from 'react';
 import Header from './Header';
 
 function App() {
-  return (
-    <Header title="Semana OmniStack"/>
-   );
+  let [counter,setCounter] = useState(0);
+  // retorna dois array 
+  // Array [valor, funçãodeAtualização] 
+
+    function increment(){
+        setCounter(counter+1);
+    }
+
+    return (
+        <div>
+        <Header>Counter: {counter}</Header>
+        <button onClick={increment}>Increment</button>
+        </div>
+    );
 }
 
 export default App;
