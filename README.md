@@ -43,6 +43,6 @@ Sinto muito orgulho de ter conseguido acompanhar e terminar na semana proposta p
 </p>
 
 
-## Prenteções Futuras:
+## Pretensões Futuras:
 
 Pretendo continuar os estudos e crescer nessa stack pois além de ser divertido possibilita criar muitos projetos interessantes. Gostaria de ter documentado melhor porém a correria impediu nessas situações melhor feito do que não feito.
